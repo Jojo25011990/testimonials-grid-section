@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot-testimonials-grid.png)
+![](./Screenshot-testimonials-grid-component.png)
 
 ### Links
 
